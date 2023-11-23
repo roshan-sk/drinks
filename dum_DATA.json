@@ -1,0 +1,9 @@
+[
+    {
+      "model": "drinks.Drink",
+      "fields": {
+        "name": "Sushi Place",
+        "description": "123 Main Street"
+      }
+    }
+]
